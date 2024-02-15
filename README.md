@@ -1,17 +1,17 @@
-<!DOCTYPE html>
-<html>
- <head>
-  <meta charset="utf-8" />
-  <title>HTML5</title>
-  <!--[if IE]>
-   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <style>
-   article, aside, details, figcaption, figure, footer,header,
-   hgroup, menu, nav, section { display: block; }
-  </style>
- </head>
- <body>
-  <p>Привет, мир</p>
- </body>
-</html>
+### Проект 1. Обучение дата Сайнс Модуль 1
+## Оглавление
+[1. Описание проекта] (ccskrf)
+
+### Описание проекта
+
+
+
+### Какой кейс решаем?
+
+**Условия соревнования:** 
+
+**Метрика качества**
+
+**Что практикуем**
+
+### Краткая информация о данных
